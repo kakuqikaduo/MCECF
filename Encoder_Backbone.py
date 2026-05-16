@@ -265,7 +265,6 @@ class LayerNorm(nn.Module):
 
 
 ################## Encoder #########################
-# Transormer Ecoder with x4, x8, x16, x32 scales
 class Encoder(nn.Module):
     def __init__(self, patch_size=3, in_chans=3, num_classes=2, embed_dims=[64, 128, 256, 512],
                  num_heads=[2, 2, 4, 8], mlp_ratios=[4, 4, 4, 4], drop_path_rate=0., heads=[4, 4, 4, 4],
