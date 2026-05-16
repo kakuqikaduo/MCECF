@@ -9,7 +9,7 @@ Click Here to Visit [SEIFNet](https://github.com/lixinghua5540/SEIFNet).
 
 ## Acknowledgements
 
-The training and testing framework used in this project is based on the publicly available implementation of [SEIFNet](链接).
+The training and testing framework used in this project is based on the publicly available implementation of SEIFNet.
 
 We sincerely thank the authors for making their code publicly available.
 
